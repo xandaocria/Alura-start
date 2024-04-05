@@ -1,8 +1,12 @@
 body{
-    background-color: #000000;
-    color: #ffffff;
+        background-color: #000000;
+        color: #ffffff;
 
+}
+.cabeçalho{
+    display: flex;
 }
 
 .logo{
     width: 25%;
+}
