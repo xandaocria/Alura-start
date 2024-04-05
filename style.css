@@ -3,7 +3,7 @@ header{
         color: #006eff;
 
 }
-.cabeçalho{
+.cabeçalho-imagem{
     display: flex;
         justify-content space-around;
 }
