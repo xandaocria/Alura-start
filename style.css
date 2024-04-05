@@ -1,5 +1,8 @@
 body{
-    background-color: #424E61;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
+
 }
-   img
+
+.logo{
+    width: 25%;
