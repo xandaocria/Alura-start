@@ -59,11 +59,14 @@ body {
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20% 20% 20%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 .rodape{
-	@@ -82,4 +82,4 @@ body {
+    background-color: black;
+    text-align: center;
+}
+.rodape-imagem{
     height: 60px;
     padding: 12px 0;
 
