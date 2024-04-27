@@ -50,7 +50,7 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 140px;
+    width: 120px;
 }
 
 .estudante-icone{
@@ -65,12 +65,12 @@ body {
 
 .estudante-titulo{
     text-align: center;
-    padding: 50px 0;
+    padding: 60px 0;
 }
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 30% 30% 30% 30% 30% 30% 30% 30%;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
 }
 
 .rodape{
